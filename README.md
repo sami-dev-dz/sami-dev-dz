@@ -1,26 +1,36 @@
-<h1 align="center">Hi, I'm Sami 👋</h1>
-<h3 align="center">Software Engineer — Full-Stack & Desktop Developer</h3>
-<p align="center">Software Architecture · System Design · Workflow Automation (n8n)</p>
+<div align="center">
+<img src="https://github.com/sami-dev-dz.png" width="120" style="border-radius:50%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-sami--dev--dz-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=for-the-badge"/>
-</p>
+# Sami
+### Software Engineer — Full-Stack & Desktop Developer
 
-<br/>
+<img src="https://img.shields.io/badge/GitHub-sami--dev--dz-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=for-the-badge"/>
 
-## 🧭 About Me
-
-- 🛠️ Software Engineer with **3–6 years** of experience across web, desktop, and automation
-- 🏗️ I design systems with **System Design**, **MVC**, and **microservices** principles in mind
-- 🤖 I build AI-powered automation pipelines (**RAG**, LLM agents) with **n8n**
-- 💻 Comfortable across the full stack — frontend, backend, databases, and desktop apps
-- 📈 Focused on writing maintainable, production-ready software — not just demos
-- 🤝 Open to freelance projects, collaboration, and technical discussions
+</div>
 
 <br/>
 
-## 🧰 Skill Set
+## About
+
+I'm a software engineer with 3 to 6 years of experience building web applications, desktop software, and automated systems. My work spans the full stack — frontend, backend, databases — and I put real thought into architecture: how a system is structured, how it scales, and how easy it stays to maintain a year later.
+
+Lately I've been spending more time on automation and AI-driven workflows, building pipelines with n8n that combine LLMs and vector databases into something that actually runs in production, not just a proof of concept.
+
+<br/>
+
+## Engineering Practices
+
+- **Architecture:** MVC, layered design, microservices, system design
+- **Code quality:** clean code, code reviews, meaningful commit history
+- **Testing:** unit and integration testing before shipping
+- **Version control:** Git workflows, feature branches, pull requests
+- **CI/CD:** automated builds and pipelines with GitHub Actions
+- **Documentation:** clear READMEs and inline docs so others (and future me) can pick up the code
+
+<br/>
+
+## Tech Stack
 
 <table>
 <tr>
@@ -71,7 +81,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sami-dev-dz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -86,26 +96,26 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sami-dev-dz&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sami-dev-dz&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
 <br/>
 
-## 🏗️ Featured Projects
+## Featured Projects
 
 **[DzArtisan](https://github.com/sami-dev-dz/DzArtisan)**
-Web platform connecting local artisans with clients, enabling service discovery and bookings.
+A web platform connecting local artisans with clients — service discovery, profiles, and bookings in one place.
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 **[BusTrack-CRM](https://github.com/sami-dev-dz/BusTrack-CRM)**
-Enterprise-grade Java desktop CRM for bus travel companies, managing fleets, trips, and passenger reservations, built with a strict MVC architecture and BCrypt-secured authentication.
+A Java desktop CRM for bus travel companies — fleet management, trip scheduling, and reservations, built with a strict MVC architecture and BCrypt-secured authentication.
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Swing-437291?style=flat-square"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A22?style=flat-square&logo=apachemaven&logoColor=white"/>
 
 **[n8n-financial-rag-chatbot](https://github.com/sami-dev-dz/n8n-financial-rag-chatbot)**
-Fully-automated RAG agent that ingests, vectorizes, and answers queries on Apple's quarterly financial reports, orchestrated entirely with n8n.
+A fully-automated RAG agent that ingests, vectorizes, and answers questions on Apple's quarterly financial reports — the whole pipeline runs in n8n.
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square"/> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
 
 <br/>
 
-<p align="center"><b>Sami</b> · Software Engineer · <a href="https://github.com/sami-dev-dz">github.com/sami-dev-dz</a></p>
+<div align="center">
+
+**Sami** · Software Engineer · [github.com/sami-dev-dz](https://github.com/sami-dev-dz)
+
+</div>
