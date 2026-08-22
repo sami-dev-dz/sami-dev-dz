@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://github.com/sami-dev-dz.png" width="130" style="border-radius:50%"/>
-
-<br/>
 
 # Sami Ghoul
 
@@ -141,7 +138,7 @@ Secure carpooling platform for university communities, with real-time booking, a
 </td>
 <td width="50%" valign="top">
 
-**[DzArtisan](https://github.com/sami-dev-dz/DzArtisan)**
+**[DzArtisan](https://github.com/sami-dev-dz/DzArtisan)** · [Live](https://dzartisan-rs.vercel.app/)
 
 Web platform connecting local artisans with clients for service discovery and bookings.
 
