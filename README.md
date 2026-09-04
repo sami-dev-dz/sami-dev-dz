@@ -40,6 +40,12 @@ Built for [dro3tech.com](https://dro3tech.com). **130 articles published**, abou
 one every two days. Nothing reaches the site without a person saying yes, which
 is the whole point: automating publication without automating the mistakes.
 
+The workflow is public — [**quillrail**](https://github.com/sami-dev-dz/quillrail),
+47 nodes, tokens replaced with environment variables and the client's details
+removed. The README there covers the two decisions the design rests on: why
+deduplication runs in two stages rather than one, and why cancelling has to
+delete the image it already uploaded.
+
 ### Elsewhere
 
 [**DzArtisan**](https://dzartisan-rs.vercel.app) is the largest thing I have
@@ -62,7 +68,8 @@ frontend    JavaScript · TypeScript · React · Next.js · Tailwind
 automation  n8n · LangChain · RAG · Pinecone · Ollama
 data        MySQL · Oracle · MongoDB · SQLite
 languages   Java · Python · C
-tooling     Git · Docker · Linux · Maven · Playwright · Pest
+testing     Pest · Playwright
+tooling     Git · Docker · Linux · Maven
 ```
 
 Open to internships and freelance work on backend, architecture, and
