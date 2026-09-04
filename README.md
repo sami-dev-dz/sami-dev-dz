@@ -18,23 +18,15 @@ it over.
 
 Here is one of them, still running:
 
-```
-   4 RSS feeds
-        │
-        ▼
-   deduplicate ······ in-memory cache first, then the WordPress API
-        │
-        ▼
-   draft + cover ···· Gemini 2.5 Pro writes, Flash illustrates
-        │
-        ▼
-   human gate ······· Telegram notification, webhook waits
-        │
-   ┌────┴────┬──────────┐
-   ▼         ▼          ▼
-publish    draft     cancel ··· deletes the uploaded image,
-                                so no orphan media piles up
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+    <img
+      src="assets/pipeline-light.svg"
+      width="760"
+      alt="Editorial pipeline: four RSS feeds merge into a deduplication stage backed by an in-memory cache, then a second stage that queries the WordPress API. Anything already covered or already published stops there. What survives is drafted by Gemini 2.5 Pro with a cover from Flash, then waits at a Telegram review gate with three outcomes: publish, draft, or cancel — and cancel deletes the uploaded image so no orphan media piles up.">
+  </picture>
+</p>
 
 Built for [dro3tech.com](https://dro3tech.com). **130 articles published**, about
 one every two days. Nothing reaches the site without a person saying yes, which
